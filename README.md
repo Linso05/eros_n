@@ -1,4 +1,4 @@
-# Eros-N
+# Eros-
 English | [简体中文](https://github.com/honjow/eros_n/blob/master/README_cn.md)
 
 [![](https://img.shields.io/github/downloads/honjow/eros_n/total.svg)](https://gitHub.com/honjow/eros_n/releases)
